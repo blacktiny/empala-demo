@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.65027555.css",
   "main.css.map": "static/css/main.65027555.css.map",
-  "main.js": "static/js/main.ba84ca06.js",
-  "main.js.map": "static/js/main.ba84ca06.js.map",
+  "main.js": "static/js/main.2b7dd765.js",
+  "main.js.map": "static/js/main.2b7dd765.js.map",
   "static/media/OpenSans-Bold.ttf": "static/media/OpenSans-Bold.f5331cb6.ttf",
   "static/media/OpenSans-ExtraBold.ttf": "static/media/OpenSans-ExtraBold.49f89e34.ttf",
   "static/media/OpenSans-Italic.ttf": "static/media/OpenSans-Italic.bf243bcb.ttf",
@@ -10,6 +10,7 @@
   "static/media/access.svg": "static/media/access.b613a998.svg",
   "static/media/capital.svg": "static/media/capital.53c1a21d.svg",
   "static/media/community.svg": "static/media/community.1c8af5f7.svg",
+  "static/media/dot.png": "static/media/dot.23d09408.png",
   "static/media/logo.svg": "static/media/logo.991e7e1f.svg",
   "static/media/operations.svg": "static/media/operations.01a326d1.svg",
   "static/media/responsive.jpg": "static/media/responsive.d8bf7ac9.jpg",
