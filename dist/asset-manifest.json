@@ -1,6 +1,8 @@
 {
-  "main.js": "static/js/main.fd4bbd3a.js",
-  "main.js.map": "static/js/main.fd4bbd3a.js.map",
+  "main.css": "static/css/main.630073fc.css",
+  "main.css.map": "static/css/main.630073fc.css.map",
+  "main.js": "static/js/main.9537ed6f.js",
+  "main.js.map": "static/js/main.9537ed6f.js.map",
   "static/media/OpenSans-Bold.ttf": "static/media/OpenSans-Bold.f5331cb6.ttf",
   "static/media/OpenSans-ExtraBold.ttf": "static/media/OpenSans-ExtraBold.49f89e34.ttf",
   "static/media/OpenSans-Italic.ttf": "static/media/OpenSans-Italic.bf243bcb.ttf",
@@ -11,6 +13,10 @@
   "static/media/dot.png": "static/media/dot.23d09408.png",
   "static/media/logo.svg": "static/media/logo.991e7e1f.svg",
   "static/media/operations.svg": "static/media/operations.01a326d1.svg",
+  "static/media/react-bootstrap-carousel.eot": "static/media/react-bootstrap-carousel.21823303.eot",
+  "static/media/react-bootstrap-carousel.svg": "static/media/react-bootstrap-carousel.2fe6d179.svg",
+  "static/media/react-bootstrap-carousel.ttf": "static/media/react-bootstrap-carousel.f7448c04.ttf",
+  "static/media/react-bootstrap-carousel.woff": "static/media/react-bootstrap-carousel.c746c488.woff",
   "static/media/responsive.jpg": "static/media/responsive.d8bf7ac9.jpg",
   "static/media/savings.svg": "static/media/savings.bc5f393a.svg",
   "static/media/slider-1.jpg": "static/media/slider-1.83a43934.jpg"
