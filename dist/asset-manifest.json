@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.630073fc.css",
   "main.css.map": "static/css/main.630073fc.css.map",
-  "main.js": "static/js/main.99a04921.js",
-  "main.js.map": "static/js/main.99a04921.js.map",
+  "main.js": "static/js/main.da4f06ec.js",
+  "main.js.map": "static/js/main.da4f06ec.js.map",
   "static/media/OpenSans-Bold.ttf": "static/media/OpenSans-Bold.f5331cb6.ttf",
   "static/media/OpenSans-ExtraBold.ttf": "static/media/OpenSans-ExtraBold.49f89e34.ttf",
   "static/media/OpenSans-Italic.ttf": "static/media/OpenSans-Italic.bf243bcb.ttf",
@@ -23,5 +23,7 @@
   "static/media/react-bootstrap-carousel.woff": "static/media/react-bootstrap-carousel.c746c488.woff",
   "static/media/responsive.jpg": "static/media/responsive.d8bf7ac9.jpg",
   "static/media/savings.svg": "static/media/savings.bc5f393a.svg",
-  "static/media/slider-1.jpg": "static/media/slider-1.83a43934.jpg"
+  "static/media/slider-1.png": "static/media/slider-1.4edec708.png",
+  "static/media/slider-2.png": "static/media/slider-2.d2e50531.png",
+  "static/media/slider-3.png": "static/media/slider-3.13ee533c.png"
 }
