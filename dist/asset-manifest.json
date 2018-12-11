@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.630073fc.css",
   "main.css.map": "static/css/main.630073fc.css.map",
-  "main.js": "static/js/main.e8e55864.js",
-  "main.js.map": "static/js/main.e8e55864.js.map",
+  "main.js": "static/js/main.55c594cb.js",
+  "main.js.map": "static/js/main.55c594cb.js.map",
   "static/media/Alan_Grujic.png": "static/media/Alan_Grujic.9472b23c.png",
   "static/media/Iain_Clarke.png": "static/media/Iain_Clarke.1ffb39b5.png",
   "static/media/Joe_Cline.png": "static/media/Joe_Cline.80da0997.png",
@@ -28,6 +28,6 @@
   "static/media/react-bootstrap-carousel.woff": "static/media/react-bootstrap-carousel.c746c488.woff",
   "static/media/savings.svg": "static/media/savings.bc5f393a.svg",
   "static/media/slider-1.png": "static/media/slider-1.4edec708.png",
-  "static/media/slider-2.png": "static/media/slider-2.d2e50531.png",
-  "static/media/slider-3.jpg": "static/media/slider-3.ae6efc4b.jpg"
+  "static/media/slider-2.png": "static/media/slider-2.20d35886.png",
+  "static/media/slider-3.png": "static/media/slider-3.518a566f.png"
 }
