@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.630073fc.css",
   "main.css.map": "static/css/main.630073fc.css.map",
-  "main.js": "static/js/main.08ce511d.js",
-  "main.js.map": "static/js/main.08ce511d.js.map",
+  "main.js": "static/js/main.03c73d3c.js",
+  "main.js.map": "static/js/main.03c73d3c.js.map",
   "static/media/Alan_Grujic.png": "static/media/Alan_Grujic.9472b23c.png",
   "static/media/Iain_Clarke.png": "static/media/Iain_Clarke.1ffb39b5.png",
   "static/media/Joe_Cline.png": "static/media/Joe_Cline.80da0997.png",
@@ -21,7 +21,6 @@
   "static/media/capital.svg": "static/media/capital.53c1a21d.svg",
   "static/media/community.svg": "static/media/community.1c8af5f7.svg",
   "static/media/dot.png": "static/media/dot.23d09408.png",
-  "static/media/logo.svg": "static/media/logo.991e7e1f.svg",
   "static/media/operations.svg": "static/media/operations.01a326d1.svg",
   "static/media/react-bootstrap-carousel.eot": "static/media/react-bootstrap-carousel.21823303.eot",
   "static/media/react-bootstrap-carousel.svg": "static/media/react-bootstrap-carousel.2fe6d179.svg",
